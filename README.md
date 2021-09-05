@@ -24,9 +24,9 @@
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=b0rgch3n&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
 
-<!--
-  <img src="https://komarev.com/ghpvc/?username=b0rgch3n&color=D36387&style=flat-squar" align="right" /> 
--->
+
+<img src="https://komarev.com/ghpvc/?username=b0rgch3n&color=D36387&style=flat-square"/> 
+
 
 
 
