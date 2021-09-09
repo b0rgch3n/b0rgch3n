@@ -1,3 +1,4 @@
+<br/> 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Courgette&color=D36387&size=26&center=true&width=660&lines=Hi+there!+This+is+b0rgch3n%2C+good+to+see+you!+%F0%9F%91%8B;I'm+a+Python+developer+interested+in+cyber+security." align="center" />
 </div>
@@ -24,8 +25,8 @@
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=b0rgch3n&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
 
-
-<img src="https://komarev.com/ghpvc/?username=b0rgch3n&color=D36387&style=flat-square"/> 
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=b0rgch3n&color=D36387&style=flat-square" width="0" height="0"/> 
 
 
 
