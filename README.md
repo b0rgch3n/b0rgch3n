@@ -21,7 +21,10 @@
 ![Metasploit Badge](https://img.shields.io/badge/Metasploit-007396?style=for-the-badge)
 ![Nmap badge](https://img.shields.io/badge/nmap-4F0599?style=for-the-badge)
 
-
+<!-- 
+<img src="https://www.hackthebox.eu/badge/image/471185"></img>
+ -->
+ 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=b0rgch3n&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
 
