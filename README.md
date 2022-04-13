@@ -23,6 +23,7 @@
 
 <!-- 
 <img src="https://www.hackthebox.eu/badge/image/471185"></img>
+<img src="https://tryhackme-badges.s3.amazonaws.com/b0rgch3n.png">
  -->
  
 #### Github Stats
