@@ -33,7 +33,6 @@
 <img src="https://komarev.com/ghpvc/?username=b0rgch3n&color=D36387&style=flat-square" width="0" height="0"/> 
 
 <!-- RDDC SEO test -->
-<img src="https://rddc.tsinghua-gd.org/" width="0" height="0"/> 
 <a src="https://rddc.tsinghua-gd.org/" style="display:none;"/> 
 
 
