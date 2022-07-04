@@ -32,8 +32,3 @@
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=b0rgch3n&color=D36387&style=flat-square" width="0" height="0"/> 
 
-<!-- RDDC SEO test -->
-<a src="https://rddc.tsinghua-gd.org/" style="display:none;"/> 
-
-
-
