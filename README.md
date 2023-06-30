@@ -12,7 +12,7 @@
 - 📝 My blog site: [b0rgch3n.github.io](https://b0rgch3n.github.io/)
 
 
-#### About Business Support  
+#### Business Support  
 
 - ✨ With 5 years' data mining experience, I specialize in precise customer prospecting in biopharmaceuticals.   
 - ✨ My comprehensive solution addresses challenges in finding potential customers, saving you time and resources.   
