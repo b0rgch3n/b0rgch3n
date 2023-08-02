@@ -6,7 +6,7 @@
 
 
 #### About Me
-- 🔭 I’m currently working on Guangzhou China.
+- 🔭 I’m currently working on China.
 - 🌱 I’m currently learning for OSCP(PEN-200) certification.
 - 💡 I like to explore new technologies and solutions.
 - 📝 My blog site: [b0rgch3n.github.io](https://b0rgch3n.github.io/)
