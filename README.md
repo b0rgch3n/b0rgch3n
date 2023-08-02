@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning for OSCP(PEN-200) certification.
 - 💡 I like to explore new technologies and solutions.
 - 📝 My blog site: [b0rgch3n.github.io](https://b0rgch3n.github.io/)
-- 💻 Currently in the process of entrepreneurship.
+- 💻 Currently in the process of entrepreneurship about growth hacking: [「Biotech Growth Hacker」](https://biotech-growth-hacker.github.io/)
 
 
 #### Program Development
