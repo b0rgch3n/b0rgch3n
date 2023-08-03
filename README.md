@@ -42,5 +42,4 @@
 
 - ✨ With 5 years' data mining experience, I specialize in precise customer prospecting in biopharmaceuticals.   
 - ✨ My comprehensive solution addresses challenges in finding potential customers, saving you time and resources.   
-- ✨ Trust me for bring stable business growth.   
 - ✨ Contact me for inquiries and customizations to optimize your biopharmaceutical customer prospecting.  
