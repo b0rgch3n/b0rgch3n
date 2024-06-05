@@ -34,11 +34,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=b0rgch3n&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
 
 <!-- Business Support -->
+<!-- 
 #### Business Support: Customer Prospecting  
 
 - ✨ With 5 years' data mining experience, I specialize in precise customer prospecting in biopharmaceuticals.   
 - ✨ My comprehensive solution addresses challenges in finding potential customers, saving you time and resources.   
 - ✨ Contact me for inquiries and customizations to optimize your biopharmaceutical customer prospecting.  
+-->
  
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=b0rgch3n&color=D36387&style=flat-square" width="0" height="0"/> 
