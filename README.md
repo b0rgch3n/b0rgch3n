@@ -1,7 +1,6 @@
 <!-- Banner -->
 <br/> 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courgette&color=D36387&size=26&center=true&width=660&lines=Hi+there!+This+is+b0rgch3n%2C+good+to+see+you!+%F0%9F%91%8B;I'm+a+Python+developer+interested+in+cyber+security." align="center" />
 </div>
 <br/> 
 
