@@ -24,7 +24,7 @@
 ![Nmap badge](https://img.shields.io/badge/nmap-4F0599?style=for-the-badge)  
 
 <!-- Cyber Security Profile -->
-<a href="https://tryhackme.com/p/b0rgch3n"><img src="https://tryhackme-badges.s3.amazonaws.com/b0rgch3n.png?" style="height: 52px" alt="TryHackMe | b0rgch3n"></a>
+<!-- <a href="https://tryhackme.com/p/b0rgch3n"><img src="https://tryhackme-badges.s3.amazonaws.com/b0rgch3n.png?" style="height: 52px" alt="TryHackMe | b0rgch3n"></a> -->
 <a href="https://app.hackthebox.com/profile/471185"><img src="https://www.hackthebox.eu/badge/image/471185"  style="height: 52px" alt="HackTheBox | b0rgch3n"></img></a>
 
 <!-- Github Stats -->
