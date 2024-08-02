@@ -1,8 +1,4 @@
 <!-- Banner -->
-<br/> 
-<div align="center">
-</div>
-<br/> 
 
 <!-- About -->
 #### About Me
