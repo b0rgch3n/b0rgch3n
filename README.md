@@ -28,8 +28,10 @@
 <a href="https://app.hackthebox.com/profile/471185"><img src="https://www.hackthebox.eu/badge/image/471185"  style="height: 52px" alt="HackTheBox | b0rgch3n"></img></a>
 
 <!-- Github Stats -->
+<!-- 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=b0rgch3n&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
+-->
 
 <!-- Business Support -->
 <!-- 
