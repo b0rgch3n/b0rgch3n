@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on China.
 - 🌱 I’m currently learning for OSCP(PEN-200) certification.
 - 💡 I like to explore new technologies and solutions.
+- 🔺 Aiming to become a Red Teamer Pro.
 <!-- 
 - 💻 Currently in the process of entrepreneurship about growth hacking: [「Biotech Growth Hacker」](https://biotech-growth-hacker.github.io/)
  -->
