@@ -27,10 +27,10 @@
 <a href="https://app.hackthebox.com/profile/471185"><img src="https://www.hackthebox.eu/badge/image/471185"  style="height: 52px" alt="HackTheBox | b0rgch3n"></img></a>
 
 #### **CVE List**
-+ CVE-2024-7898
-+ CVE-2024-7897 
-+ CVE-2024-7896
-+ CVE-2024-43022
++ [CVE-2024-7898](https://www.cve.org/CVERecord?id=CVE-2024-7898)
++ [CVE-2024-7897](https://www.cve.org/CVERecord?id=CVE-2024-7897) 
++ [CVE-2024-7896](https://www.cve.org/CVERecord?id=CVE-2024-7896)
++ [CVE-2024-43022](https://www.cve.org/CVERecord?id=CVE-2024-43022)
 
 <!-- Github Stats -->
 <!-- 
