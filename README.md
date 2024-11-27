@@ -9,8 +9,10 @@
 <!-- 
 - 💻 Currently in the process of entrepreneurship about growth hacking: [「Biotech Growth Hacker」](https://biotech-growth-hacker.github.io/)
  -->
- 
+
+
 <!-- Program Development Skills -->
+<!-- 
 ### **Program Development**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
@@ -20,8 +22,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+-->
 
 <!-- Cyber Security Skills -->
+<!-- 
 ### **Cyber Security**
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
@@ -32,9 +36,11 @@
 ![OWASP](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP&color=000000&logo=OWASP&logoColor=FFFFFF&label=) 
 ![HackTheBox](https://img.shields.io/badge/hackthebox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black) 
 ![TryHackMe](https://img.shields.io/badge/tryhackme-494649?style=for-the-badge&logo=tryhackme&logoColor=white)  
+-->
+
 
 <!-- Cyber Security Profile -->
-#### **My HTB Profile**
+#### **My Cyber Security Profile**
 <!-- <a href="https://tryhackme.com/p/b0rgch3n"><img src="https://tryhackme-badges.s3.amazonaws.com/b0rgch3n.png?" style="height: 52px" alt="TryHackMe | b0rgch3n"></a> -->
 <a href="https://app.hackthebox.com/profile/471185"><img src="https://www.hackthebox.eu/badge/image/471185"  style="height: 52px" alt="HackTheBox | b0rgch3n"></img></a>
 
