@@ -45,10 +45,11 @@
 <a href="https://app.hackthebox.com/profile/471185"><img src="https://www.hackthebox.eu/badge/image/471185"  style="height: 52px" alt="HackTheBox | b0rgch3n"></img></a>
 
 #### **My CVEs List**
-+ [CVE-2024-7898](https://www.cve.org/CVERecord?id=CVE-2024-7898)
-+ [CVE-2024-7897](https://www.cve.org/CVERecord?id=CVE-2024-7897) 
-+ [CVE-2024-7896](https://www.cve.org/CVERecord?id=CVE-2024-7896)
-+ [CVE-2024-43022](https://www.cve.org/CVERecord?id=CVE-2024-43022)
+- [CVE-2024-7898](https://nvd.nist.gov/vuln/detail/CVE-2024-7898) (CVSS Version 3.1 Base Score: 9.8 CRITICAL)
+- [CVE-2024-7897](https://nvd.nist.gov/vuln/detail/CVE-2024-7897) (CVSS Version 3.1 Base Score: 8.8 HIGH)
+- [CVE-2024-7896](https://nvd.nist.gov/vuln/detail/CVE-2024-7896) (CVSS Version 3.1 Base Score: 8.8 HIGH)
+- [CVE-2024-43022](https://nvd.nist.gov/vuln/detail/CVE-2024-43022) (CVSS Version 3.1 Base Score: 7.5 HIGH)
+
 
 <!-- Github Stats -->
 <!-- 
